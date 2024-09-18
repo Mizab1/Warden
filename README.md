@@ -26,6 +26,5 @@ A custom Minecraft mob called **Warden**, introduced before its official release
 - [AncientKingg](https://github.com/AncientKingg)
 
 ## Media
-![Video Link](https://drive.google.com/file/d/1oztjf_E0uIpAmz3RLn-HlWcavb_WRg-H/view?usp=sharing)
-
+- [Video Link](https://drive.google.com/file/d/1oztjf_E0uIpAmz3RLn-HlWcavb_WRg-H/view?usp=sharing)
 ---
