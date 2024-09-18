@@ -22,11 +22,10 @@ A custom Minecraft mob called **Warden**, introduced before its official release
 
 ## Contributors
 
-- [Mizab](https://github.com/your-profile)
+- [Mizab](https://github.com/Mizab1)
 - [AncientKingg](https://github.com/AncientKingg)
 
 ## Media
-![](https://drive.google.com/file/d/1oztjf_E0uIpAmz3RLn-HlWcavb_WRg-H/view?usp=sharing)
-
+![Media](Showcase/warden_demonstration.mp4)
 
 ---
