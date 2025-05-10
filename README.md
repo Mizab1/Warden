@@ -4,7 +4,7 @@ A custom Minecraft mob called **Warden**, introduced before its official release
 
 ## Features
 
-- **Custom AI**: A unique artificial intelligence system for realistic behavior.
+- **Custom AI**: A unique AI system for realistic behavior.
 - **Custom Pathfinding**: Advanced movement mechanics that navigate the environment intelligently.
 - **Custom Particles**: Tailor-made visual effects to enhance gameplay.
 - **Custom Models**: Handcrafted models built with Blockbench.
@@ -14,8 +14,8 @@ A custom Minecraft mob called **Warden**, introduced before its official release
 
 ## Tech Stack
 
-- **MCF**: Minecraft Forge used for mod development.
-- **MCB**: Minecraft Bedrock Edition customization.
+- **MCF**: For datapack development.
+- **MCB**: For behavior development.
 - **Blockbench**: 3D modeling tool for creating the mob.
 - **Animated Java**: Used for custom animations.
 - **Paint.net**: Software for texture design.
